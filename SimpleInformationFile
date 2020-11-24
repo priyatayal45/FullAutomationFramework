@@ -1,0 +1,6 @@
+Git commands
+One time used commands:
+1.)git init
+2.)git remote add origin https://github.com/priyatayal45/FullAutomationFramework.git (Your Github url for taht project)
+3.) git config --global user.name "PriyaTayal"
+4.)git config --global user.email "priyatayal5@gmail.com"
